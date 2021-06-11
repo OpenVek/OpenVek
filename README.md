@@ -8,7 +8,7 @@
 
  🔭 I’m currently working on **personal projects, applications and tools for the open source community**
 
- 🌱 I’m currently learning **React Native, NodeJS, Java, Golang and Python**
+ 🌱 I’m currently learning **Angular, React Native, NodeJS, Java, Golang and Python**
  
  🧐 Interested in **Elixir** and a little bit in **Scala**
 
