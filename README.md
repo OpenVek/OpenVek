@@ -1,4 +1,4 @@
-# Hi Everyone 👋
+# Hi There 👋
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 	<img width="320" align="right" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
