@@ -8,13 +8,13 @@
 
  🔭 I’m currently working on **personal projects, applications and tools for the open source community**
 
- 🌱 I’m currently learning **Angular, React Native, NodeJS, Java, Golang and Python**
+ 🌱 I’m currently learning **Angular, React Native, NodeJS, Java and Golang**
  
- 🧐 Interested in **Elixir** and a little bit in **Scala**
+ 🧐 Interested in **Kotlin** and a little bit in **Dart**
 
  👨‍💻 All of my projects are available at [https://github.com/OpenVek](https://github.com/OpenVek)
 
- 💬 Ask me about **JavaScript, HTML and CSS**
+ 💬 Ask me about **Linux, JavaScript, HTML and CSS**
 
  📫 How to reach me **kevinalvarezdev@gmail.com**
  
