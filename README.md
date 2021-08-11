@@ -8,7 +8,7 @@
 
  🔭 I’m currently working on **personal projects, applications and tools for the open source community**
 
- 🌱 I’m currently learning **Angular, React Native, NodeJS, Java and Golang**
+ 🌱 I’m currently learning **Electron, NodeJS, Java and Golang**
  
  🧐 Interested in **Kotlin** and a little bit in **Dart**
 
