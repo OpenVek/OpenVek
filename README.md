@@ -18,4 +18,4 @@
 
  📫 How to reach me **kevinalvarezdev@gmail.com**
  
- 🧠 I have acquired my knowledge in: **Udemy, FreeCodeCamp, Programming Hub, Microsoft Learn, Sololearn and Youtube Programming Courses**
+ 🧠 I have acquired my knowledge in: **HackerRank, Udemy, FreeCodeCamp, Programming Hub, Microsoft Learn, Sololearn and Youtube Programming Courses**
