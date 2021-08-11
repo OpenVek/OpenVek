@@ -16,6 +16,6 @@
 
  💬 Ask me about **Linux, JavaScript, HTML and CSS**
 
- 📫 How to reach me **kevinalvarezdev@gmail.com**
+ 📫 How to reach me: **kevinalvarezdev@gmail.com**
  
  🧠 I have acquired my knowledge in: **HackerRank, Udemy, FreeCodeCamp, Programming Hub, Microsoft Learn, Sololearn and Youtube Programming Courses**
