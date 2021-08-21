@@ -10,7 +10,7 @@
 
  🌱 I’m currently learning **Electron, NodeJS, Java and Golang**
  
- 🧐 Interested in **Kotlin** and a little bit in **Dart**
+ 🧐 Interested in **Kotlin** and a little bit in **Python**
 
  👨‍💻 All of my projects are available at [https://github.com/OpenVek](https://github.com/OpenVek)
 
