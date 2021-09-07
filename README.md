@@ -9,7 +9,7 @@
 
  🌱 I’m currently learning **Angular, NodeJS, Java and Golang**
  
- 🧐 Interested in **Kotlin** and a little bit in **C#**
+ 🧐 Interested in **Kotlin** and a little bit in **React**
 
  👨‍💻 All of my projects are available at [https://github.com/OpenVek](https://github.com/OpenVek)
 
