@@ -13,7 +13,7 @@
 
  👨‍💻 All of my projects are available at [https://github.com/OpenVek](https://github.com/OpenVek)
 
- 💬 Ask me about **Linux, JavaScript, HTML and CSS**
+ 💬 Ask me about **JavaScript**
 
  📫 How to reach me: **kevinalvarezdev@gmail.com**
  
