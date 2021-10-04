@@ -9,7 +9,7 @@
 
  🌱 I’m currently learning **Java, Kotlin and Android**
  
- 🧐 Interested in **Kotlin** and a little bit in **React**
+ 🧐 Interested in **Kotlin, SQLite, Android Development** and a little bit in **React**
 
  👨‍💻 All of my projects are available at [https://github.com/OpenVek](https://github.com/OpenVek)
 
